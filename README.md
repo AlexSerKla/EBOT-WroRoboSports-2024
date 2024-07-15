@@ -1,5 +1,3 @@
-# EBOT-WroRoboSports-2024
-
 Engineering materials
 ====
 
